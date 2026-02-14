@@ -15,4 +15,5 @@ export class AppComponent {
   //altro test
   a = 1;
   b = 2;
+  c = this.a + this.b;
 }
