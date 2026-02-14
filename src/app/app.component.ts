@@ -16,6 +16,6 @@ export class AppComponent {
   a = 1;
   b = 2;
   c = this.a + this.b;
-  d = this.c * 2;
+  d = this.c * 4;
   f = this.d - this.a;
 }
