@@ -14,4 +14,5 @@ export class AppComponent {
   //nessun commit è stato fatto, è solo un test
   //altro test
   a = 1;
+  b = 2;
 }
