@@ -12,6 +12,4 @@ import {RouterOutlet} from '@angular/router';
 })
 export class AppComponent {
   //nessun commit è stato fatto, è solo un test
-
-
 }
